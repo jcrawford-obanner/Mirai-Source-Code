@@ -22,3 +22,8 @@ responsibility.
 
 ## Warning
 The [zip file](https://www.virustotal.com/en/file/f10667215040e87dae62dd48a5405b3b1b0fe7dbbfbf790d5300f3cd54893333/analysis/1477822491/) for this repo is being identified by some AV programs as malware.  Please take caution. 
+
+## Useful Links
+https://tyeyeah.github.io/2020/12/03/2020-12-03-Build-Mirai-Botnet-and-Try-It/#Install-Requirements
+https://httpd.apache.org/docs/2.4/install.html
+
